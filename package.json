@@ -14,7 +14,7 @@
 		"dojo": "2.0.0-alpha.6",
 		"chai": "3.0.0",
 		"leadfoot": "1.6.0-rc.1",
-		"digdug": "theintern/digdug",
+		"digdug": "drowzy/digdug.git",
 		"charm": "0.2.0",
 		"diff": "1.1.0"
 	},
